@@ -21,9 +21,14 @@
   "dependencies": {
     "commander": "^4.0.1",
     "csv-parse": "^4.8.2",
+    "date-fns": "^2.16.1",
+    "date-fns-timezone": "^0.1.4",
     "firebase": "^7.6.0",
     "firebase-admin": "^8.8.0",
-    "firebase-functions": "^3.3.0"
+    "firebase-functions": "^3.3.0",
+    "lodash": "^4.17.20",
+    "node-fetch": "2.6.0",
+    "puppeteer": "2.0.0"
   },
   "devDependencies": {
     "@types/eslint": "^6.1.3",
